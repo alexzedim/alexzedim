@@ -20,9 +20,9 @@ My name is Sasha .
 
 I am a back-end node .js dev but I'm also capable of doing some front-end staff via SSR framework of React, called Next .js .
 
-Most of my open source projects are relevant with World of Warcraft, so if you are looking for any advice or just want to contact me use Discord: `#2645`
+Most of my open source projects are relevant with World of Warcraft, so if you are looking for any advice or just want to contact me use Discord: `#2645` .
 
-You may also find me on 
+You may also find me on  .
 
 ### 🛠️ I am working with:
 ##
