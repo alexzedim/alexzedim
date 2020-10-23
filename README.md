@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:  . . .
 -->
 
-Hello there!
-##
+
+### Hello there!
 
 My name is Sasha . 
 
@@ -24,7 +24,7 @@ Most of my open source projects are relevant with World of Warcraft, so if you a
 
 You may also find me on 
 
-🛠️ I am working with:
+### 🛠️ I am working with:
 ##
 
 
