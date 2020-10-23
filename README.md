@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 
 
 ### 🥳 Hello there!
+##
 
 My name is Sasha . 
 
 I am a back-end node .js dev but I'm also capable of doing some front-end staff via SSR framework of React, called Next .js .
 
-Most of my open source projects are relevant with World of Warcraft, so if you are looking for any advice or just want to contact me use Discord: `#2645` .
+Most of my open source projects are relevant with World of Warcraft, and I am currently working on my site called [conglomerat](conglomerat .group) 
+
+If you are looking for any advice relative with the topic above or just want to contact me, you can do it via discord: `#2645` .
 
 You may also find me on  .
 
