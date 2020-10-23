@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 Hello there!
-###
+##
 
 My name is Sasha . 
 
@@ -24,8 +24,9 @@ Most of my open source projects are relevant with World of Warcraft, so if you a
 
 You may also find me on 
 
-:tools: I am working with:
-###
+🛠️ I am working with:
+##
+
 
 
 !['s github stats](https://github-readme-stats .vercel .app/api?username=alexzedim&count_private=true)
