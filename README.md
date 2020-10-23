@@ -24,7 +24,7 @@ Most of my open source projects are relevant with World of Warcraft, so if you a
 
 You may also find me on 
 
-Technologies:
+:tools: I am working with:
 ###
 
 
