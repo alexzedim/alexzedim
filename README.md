@@ -17,7 +17,7 @@ Hello there!
 
 My name is Sasha . 
 
-I am a back-end node .js dev but I also capable of doing some front-end staff via SSR framework of React, called Next .js .
+I am a back-end node .js dev but I'm also capable of doing some front-end staff via SSR framework of React, called Next .js .
 
 You may also find me on: 
 
