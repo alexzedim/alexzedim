@@ -28,7 +28,7 @@ My name is Sasha . If you are looking for any advice relative with the topic bel
   - As canban-boards and task-managers, I am fine with both Atlassian's: ![/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=2bbc8a) & ![/Tools-Trello-informational?style=flat&logo=trello&logoColor=white&color=2bbc8a)
   - ![/PM-PM2-informational?style=flat&logo=pm2&logoColor=white&color=2bbc8a) as process manager, ![/JQM-Bull-informational?style=flat&logo=bullmq&logoColor=white&color=2bbc8a) or ![/JQM-Agenda-informational?style=flat&logo=agendajs&logoColor=white&color=2bbc8a) as job queue managers and ![/MB-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a) as message broker .
   - I am familiar with ![/Tests-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a), ![/Tests-Mocha-informational?style=flat&logo=mocha&logoColor=white&color=2bbc8a) & ![/Tests-Jasmine-informational?style=flat&logo=jasmine&logoColor=white&color=2bbc8a) but I am not a bit fun of TDD (test-driven development, where you write testes, before the code) .
-  - I'm rarely using ![/Containder-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) on my own, as container software, Mainly, because I have no problems with deployment by ssh, and such things as different versions of libraties and enviroment .
+  - I'm rarely using ![/Containder-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) on my own, as container software, Mainly, because I don't have much problems with deployment by ssh, and such things as different versions of libraties and enviroments are avoiding me .
 
 ### 🛠️ GitHub Stats:
 
