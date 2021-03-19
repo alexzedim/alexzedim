@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### 🥳 About me:
 ##
 
-My name is Sasha . If you are looking for any advice relative with the topic below or just want to contact me, you can do it via discord: `#2645` . And you  may also find me on , tackOverflow]() .
+My name is Sasha . If you are looking for any advice relative with the topic below or just want to contact me, you can do it via discord: `#2645` . And you  may also find me on ,  .
 
 
  - But I am also capable to do some front-end staff via ![/front-Next .js-informational?style=flat&logo=next .js&logoColor=white&color=2bbc8a) which is based on ![/front-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) 
