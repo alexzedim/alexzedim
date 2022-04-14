@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 My name is Sasha . If you are looking for any advice relative with the topic below or just want to contact me, you can do it via discord: `#2645` . And you may also find me via , , and even in ENS [ .
 
 
+ - Since I have working in #crypto I am familiar with ![/web3-Web_3-informational?style=flat&logo=web3dotjs&logoColor=white&color=2bbc8a) and all the related stuff: smart-contracts on ![/web3-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a) and testing and deploying stuff within Mainnet ![/web3-ETH-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a) and it's test-nets .
  - But I am also capable to do some front-end staff via ![/front-Next .js-informational?style=flat&logo=next .js&logoColor=white&color=2bbc8a) which is based on ![/front-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) 
  - Using ![/OS-Windows%2010-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a) OS on my home PC, using ![/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a) on server machines and I am expirience with ![/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a) .
  - As a OS CLI I prefer ![/shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a) because of C#-like syntax, but as a user of ![/shell-Windows_Terminal-informational?style=flat&logo=windowsterminal&logoColor=white&color=2bbc8a) I have used many other CLI's .
