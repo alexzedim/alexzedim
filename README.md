@@ -29,7 +29,7 @@ My name is Sasha . If you are looking for any advice relative with the topic bel
  - VCS: ![/VCS-git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) | ![/VCS-github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a) | ![/VCS-gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a) | ![/VCS-bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=2bbc8a)
   - Task trackers: ![/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=2bbc8a) | ![/Tools-Trello-informational?style=flat&logo=trello&logoColor=white&color=2bbc8a) | ![/Tools-Redmine-informational?style=flat&logo=redmine&logoColor=white&color=2bbc8a)
   - Job & Message Queue: ![/JQM-Bull-informational?style=flat&logo=bullmq&logoColor=white&color=2bbc8a) |  ![/MB-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a)
-  - Tests: ![/Tests-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a), ![/Tests-Mocha-informational?style=flat&logo=mocha&logoColor=white&color=2bbc8a) | ![/Tests-Jasmine-informational?style=flat&logo=jasmine&logoColor=white&color=2bbc8a)
+  - Tests: ![/Tests-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a) | ![/Tests-Mocha-informational?style=flat&logo=mocha&logoColor=white&color=2bbc8a) | ![/Tests-Jasmine-informational?style=flat&logo=jasmine&logoColor=white&color=2bbc8a)
   - DevOps: ![/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) | ![/CD-GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=2bbc8a) | ![/CD-Portainer-informational?style=flat&logo=portainer&logoColor=white&color=2bbc8a)
 
 ### 🛠️ GitHub Stats:
