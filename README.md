@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### 🥳 About me:
 ##
 
-My name is Sasha . If you are looking for any advice relative with the topic below or just want to contact me, you can do it via telegram: `alexzedim` . And you may also find me via , , and ENS [ .
+My name is Sasha . Yyou may find me via , , and ENS [ .
 
 
  - Front-End: ![/front-Next .js-informational?style=flat&logo=next .js&logoColor=white&color=2bbc8a) | ![/front-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) .
