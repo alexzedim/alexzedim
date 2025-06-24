@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:  . . .
 -->
 
-### 🥳 About me:
-##
+### About me:
 
 My name is Sasha & you may find me via , , and ENS [ .
+
+*AI doesn't code for me, but I'm using AI to code*
 
 
  - Front-End: ![/front-Next .js-informational?style=flat&logo=next .js&logoColor=white&color=2bbc8a) | ![/front-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) .
