@@ -19,7 +19,7 @@ My name is Sasha & you may find me via:
 
 [![Gmail Badge](https://img.shields.io/badge/-alexzedim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexzedim@gmail.com)](mailto:alexzedim@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-alexzedim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexzedim/)](https://www.linkedin.com/in/alexzedim/)
-[![Telegram Badge](https://img.shields.io/badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/sasha_spb_dev/)](https://t.me/sasha_spb_dev/)
+[![Telegram Badge](https://img.shields.io/badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/sasha_dev_spb/)](https://t.me/sasha_dev_spb/)
 [![Discord Badge](https://img.shields.io/badge/-alexzedim-purple?style=flat-square&logo=Discord&logoColor=white&link=discord:alexzedim)](discord:alexzedim)
 [![Stackoverflow](https://img.shields.io/badge/-alexzedim-orange?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/7475615/alexzedim)](https://stackoverflow.com/users/7475615/alexzedim)
 [![ENS](https://img.shields.io/badge/-alexzedim-blue?style=flat-square&logo=ENS&logoColor=white&link=https://alexzedim.eth)](https://alexzedim.eth)
