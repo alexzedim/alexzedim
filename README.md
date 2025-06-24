@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:  . . .
 -->
 
-## ✨ My name is Sasha & you may find me via:
+## ✨ My name is Sasha & you may find me via
 
 
 -?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
@@ -70,12 +70,12 @@ Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=whi
  ![Trello/Tools-Trello-informational?style=flat-square&logo=trello)
  ![Redmine/Tools-Redmine-informational?style=flat-square&logo=redmine)
 
-### 🛠️ GitHub Stats:
+### 🛠️ GitHub Stats
 
 *Non-commerical, open-source & pet projects*
 
 !['s github stats](https://github-readme-stats .vercel .app/api?username=alexzedim&count_private=true)
 
-## Current projects:
+## Projects:
 
 C M N W](https://github .com/user-attachments/assets/26af96b1-f3d5-444b-bf7c-144e544ccaaa)](https://github .com/alexzedim/cmnw)
