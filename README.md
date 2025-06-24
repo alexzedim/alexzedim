@@ -13,9 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:  . . .
 -->
 
-### About me:
+## ✨ About me:
 
-My name is Sasha & you may find me via , , and ENS [ .
+My name is Sasha & you may find me via:
+
+
+-?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
+Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t .me/sasha_spb_dev/)](https://t .me/sasha_spb_dev/)
+-?style=flat-square&logo=Discord&logoColor=white&link=)]()
+-?style=flat-square&logo=Stackoverflow&logoColor=white&link=)]()
+-?style=flat-square&logo=ENS&logoColor=white&link=https://)
+
+## ⚡ AI
 
 *AI doesn't write code for me, but I'm using AI to write code*
 
@@ -24,21 +33,29 @@ My name is Sasha & you may find me via , , and ENS [ .
  ![Warp/AI-Warp-informational?style=flat-square-square&logo=warp)
  ![Cursor/AI-Cursor-informational?style=flat-square-square&logo=cursor)
 
+## ⚡ Technologies
+
  ![Typescript/code-TypeScript-informational?style=flat-square-square&logo=typescript)
  ![Nest .js/code-Nestjs-informational?style=flat-square&logo=nestjs)
  ![Node .js/code-Node .js-informational?style=flat-square&logo=node .js)
  ![Javascript/code-JavaScript-informational?style=flat-square&logo=javascript)
+ ![GraphQL/-GraphQL-E10098?style=flat-square&logo=graphql)
  ![Next .js/front-Next .js-informational?style=flat-square&logo=next .js)
  ![React/front-React-informational?style=flat-square&logo=react)
  ![PosgreSQL/DB-PosgreSQL-informational?style=flat-square&logo=posgresql)
  ![MongoDB/DB-MongoDB-informational?style=flat-square&logo=mongodb)
+ ![MySQL/-MySQL-black?style=flat-square&logo=mysql)
  ![Redis/DB-Redis-informational?style=flat-square&logo=redis)
  ![Elasticsearch/DB-Elasticsearch-informational?style=flat-square&logo=elasticsearch)
  ![Clickhouse/DB-Clickhouse-informational?style=flat-square&logo=clickhouse)
  ![BullMQ/JQM-Bull-informational?style=flat-square&logo=bullmq)
  ![RabbitMQ/MB-RabbitMQ-informational?style=flat-square&logo=rabbitmq)
  ![Jest/Tests-Jest-informational?style=flat-square&logo=jest)
- ![Docker/Container-Docker-informational?style=flat-square&logo=docker)
+ ![Docker/-Docker-black?style=flat-square&logo=docker)
+ ![DigitalOcean/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
+ ![Amazon AWS/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+ ![Microsoft Azure/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+ ![Google Cloud/Google%20Cloud-black?style=flat-square&logo=google-cloud)
  ![GitHub_Actions/CD-GitHub_Actions-informational?style=flat-square&logo=githubactions)
  ![Portainer/CD-Portainer-informational?style=flat-square&logo=portainer)
  ![Neo4j/DB-Neo4j-informational?style=flat-square&logo=neo4j)
