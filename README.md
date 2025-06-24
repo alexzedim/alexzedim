@@ -13,9 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About me:
+## ✨ About me:
 
-My name is Sasha & you may find me via [LinkedIn](https://www.linkedin.com/in/alexzedim/), [StackOverflow](https://stackoverflow.com/users/7475615/alexzedim), and ENS [AlexZeDim.eth](https://alexzedim.eth).
+My name is Sasha & you may find me via:
+
+[![Gmail Badge](https://img.shields.io/badge/-alexzedim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexzedim@gmail.com)](mailto:alexzedim@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-alexzedim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexzedim/)](https://www.linkedin.com/in/alexzedim/)
+[![Telegram Badge](https://img.shields.io/badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/sasha_spb_dev/)](https://t.me/sasha_spb_dev/)
+[![Discord Badge](https://img.shields.io/badge/-alexzedim-purple?style=flat-square&logo=Discord&logoColor=white&link=discord:alexzedim)](discord:alexzedim)
+[![Stackoverflow](https://img.shields.io/badge/-alexzedim-orange?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/7475615/alexzedim)](https://stackoverflow.com/users/7475615/alexzedim)
+[![ENS](https://img.shields.io/badge/-alexzedim-blue?style=flat-square&logo=ENS&logoColor=white&link=https://alexzedim.eth)](https://alexzedim.eth)
+
+## ⚡ AI
 
 *AI doesn't write code for me, but I'm using AI to write code*
 
@@ -24,21 +33,29 @@ My name is Sasha & you may find me via [LinkedIn](https://www.linkedin.com/in/al
  ![Warp](https://img.shields.io/badge/AI-Warp-informational?style=flat-square-square&logo=warp)
  ![Cursor](https://img.shields.io/badge/AI-Cursor-informational?style=flat-square-square&logo=cursor)
 
+## ⚡ Technologies
+
  ![Typescript](https://img.shields.io/badge/code-TypeScript-informational?style=flat-square-square&logo=typescript)
  ![Nest.js](https://img.shields.io/badge/code-Nestjs-informational?style=flat-square&logo=nestjs)
  ![Node.js](https://img.shields.io/badge/code-Node.js-informational?style=flat-square&logo=node.js)
  ![Javascript](https://img.shields.io/badge/code-JavaScript-informational?style=flat-square&logo=javascript)
+ ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
  ![Next.js](https://img.shields.io/badge/front-Next.js-informational?style=flat-square&logo=next.js)
  ![React](https://img.shields.io/badge/front-React-informational?style=flat-square&logo=react)
  ![PosgreSQL](https://img.shields.io/badge/DB-PosgreSQL-informational?style=flat-square&logo=posgresql)
  ![MongoDB](https://img.shields.io/badge/DB-MongoDB-informational?style=flat-square&logo=mongodb)
+ ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
  ![Redis](https://img.shields.io/badge/DB-Redis-informational?style=flat-square&logo=redis)
  ![Elasticsearch](https://img.shields.io/badge/DB-Elasticsearch-informational?style=flat-square&logo=elasticsearch)
  ![Clickhouse](https://img.shields.io/badge/DB-Clickhouse-informational?style=flat-square&logo=clickhouse)
  ![BullMQ](https://img.shields.io/badge/JQM-Bull-informational?style=flat-square&logo=bullmq)
  ![RabbitMQ](https://img.shields.io/badge/MB-RabbitMQ-informational?style=flat-square&logo=rabbitmq)
  ![Jest](https://img.shields.io/badge/Tests-Jest-informational?style=flat-square&logo=jest)
- ![Docker](https://img.shields.io/badge/Container-Docker-informational?style=flat-square&logo=docker)
+ ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+ ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
+ ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+ ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+ ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
  ![GitHub_Actions](https://img.shields.io/badge/CD-GitHub_Actions-informational?style=flat-square&logo=githubactions)
  ![Portainer](https://img.shields.io/badge/CD-Portainer-informational?style=flat-square&logo=portainer)
  ![Neo4j](https://img.shields.io/badge/DB-Neo4j-informational?style=flat-square&logo=neo4j)
