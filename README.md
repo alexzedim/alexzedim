@@ -78,4 +78,6 @@ Here are some ideas to get you started:
 
 ## Current projects:
 
+[![C M N W](https://github.com/user-attachments/assets/26af96b1-f3d5-444b-bf7c-144e544ccaaa)](https://github.com/alexzedim/cmnw)
+
 [![C M N W](https://svg.bookmark.style/api?url=https://github.com/alexzedim/cmnw)](https://github.com/alexzedim/cmnw)
