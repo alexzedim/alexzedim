@@ -19,7 +19,7 @@ My name is Sasha & you may find me via:
 
 
 -?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
-Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t .me/sasha_spb_dev/)](https://t .me/sasha_spb_dev/)
+Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t .me//)](https://t .me//)
 -?style=flat-square&logo=Discord&logoColor=white&link=)]()
 -?style=flat-square&logo=Stackoverflow&logoColor=white&link=)]()
 -?style=flat-square&logo=ENS&logoColor=white&link=https://)
