@@ -72,4 +72,6 @@ Here are some ideas to get you started:
 
 ### 🛠️ GitHub Stats:
 
+*Non-commerical, open-source & pet projects*
+
 ![AlexZeDim's github stats](https://github-readme-stats.vercel.app/api?username=alexzedim&count_private=true)
