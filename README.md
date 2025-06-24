@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:  . . .
 -->
 
-## ✨ About me:
-
-My name is Sasha & you may find me via:
+## ✨ My name is Sasha & you may find me via:
 
 
 -?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
