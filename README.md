@@ -26,14 +26,14 @@ Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=whi
 
 ## ⚡ AI
 
-*AI doesn't write code for me, but I'm using AI to write code*
+*AI doesn't write code for me, but I'm using AI to write efficent code*
 
 
  ![Claude/AI-Claude-informational?style=flat-square-square&logo=claude)
  ![Warp/AI-Warp-informational?style=flat-square-square&logo=warp)
  ![Cursor/AI-Cursor-informational?style=flat-square-square&logo=cursor)
 
-## ⚡ Technologies
+## 💻 Technologies
 
  ![Typescript/code-TypeScript-informational?style=flat-square-square&logo=typescript)
  ![Nest .js/code-Nestjs-informational?style=flat-square&logo=nestjs)
