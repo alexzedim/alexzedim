@@ -75,3 +75,7 @@ Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=whi
 *Non-commerical, open-source & pet projects*
 
 !['s github stats](https://github-readme-stats .vercel .app/api?username=alexzedim&count_private=true)
+
+## Current projects:
+
+C M N W](https://svg .bookmark .style/api?url=https://github .com/alexzedim/cmnw)](https://github .com/alexzedim/cmnw)
