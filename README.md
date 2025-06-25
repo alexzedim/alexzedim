@@ -34,8 +34,8 @@ Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=whi
 ## 💻 Technologies
 
  ![Typescript/TypeScript-informational?style=flat-square-square&logo=typescript)
- ![Nest .js/Nestjs-informational?style=flat-square&logo=nestjs)
- ![Node .js/Node .js-informational?style=flat-square&logo=node .js)
+ ![Nest .js/Nestjs-red?style=flat-square&logo=nestjs)
+ ![Node .js/Node .js-black?style=flat-square&logo=node .js)
  ![Javascript/JavaScript-informational?style=flat-square&logo=javascript)
  ![GraphQL/GraphQL-E10098?style=flat-square&logo=graphql)
  ![Next .js/Next .js-informational?style=flat-square&logo=next .js)
@@ -44,7 +44,7 @@ Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=whi
  ![MongoDB/MongoDB-informational?style=flat-square&logo=mongodb)
  ![MySQL/MySQL-black?style=flat-square&logo=mysql)
  ![Redis/Redis-informational?style=flat-square&logo=redis)
- ![Elasticsearch/Elasticsearch-informational?style=flat-square&logo=elasticsearch)
+ ![Elasticsearch/Elasticsearch-black?style=flat-square&logo=elasticsearch)
  ![Clickhouse/Clickhouse-informational?style=flat-square&logo=clickhouse)
  ![s3/s3-informational?style=flat-square&logo=s3)
  ![Minio/Minio-informational?style=flat-square&logo=minio)
