@@ -53,7 +53,7 @@ Here are some ideas to get you started:
  ![Loki](https://img.shields.io/badge/Loki-informational?style=flat-square&logo=loki)
  ![Prometeus](https://img.shields.io/badge/Prometeus-informational?style=flat-square&logo=prometeus)
  ![BullMQ](https://img.shields.io/badge/BullMQ-informational?style=flat-square&logo=bull)
- ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-informational?style=flat-square&logo=rabbitmq)
+ ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-orange?style=flat-square&logo=rabbitmq&logoColor=fff)
  ![Jest](https://img.shields.io/badge/Jest-informational?style=flat-square&logo=jest)
  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
  ![DigitalOcean](https://img.shields.io/badge/Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
