@@ -65,7 +65,7 @@ Here are some ideas to get you started:
  ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)
  ![Web3.js](https://img.shields.io/badge/Web_3-informational?style=flat-square&logo=web3dotjs)
  ![Solidity](https://img.shields.io/badge/Solidity-informational?style=flat-square&logo=solidity)
- ![Datagrip](https://img.shields.io/badge/Datagrip-green?style=flat-square&logo=datagrip)
+ ![Datagrip](https://img.shields.io/badge/Datagrip-purple?style=flat-square&logo=datagrip)
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
  ![Powershell](https://img.shields.io/badge/Powershell-2478CC?style=flat-square&logo=powershell&logoColor=fff)
  ![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)
