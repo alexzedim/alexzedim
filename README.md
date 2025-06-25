@@ -67,7 +67,7 @@ Here are some ideas to get you started:
  ![Solidity](https://img.shields.io/badge/Solidity-informational?style=flat-square&logo=solidity)
  ![Datagrip](https://img.shields.io/badge/Datagrip-informational?style=flat-square&logo=datagrip)
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
- ![Powershell](https://img.shields.io/badge/Powershell-2478CC??style=flat-square&logo=ps&logoColor=fff)
+ ![Powershell](https://img.shields.io/badge/Powershell-2478CC?style=flat-square&logo=powershell&logoColor=fff)
  ![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)
  ![VSC](https://img.shields.io/badge/VSC-black?style=flat-square&logo=visual-studio-code)
  ![Fleet](https://img.shields.io/badge/Fleet-informational?style=flat-square&logo=fleet)
