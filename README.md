@@ -33,13 +33,13 @@ Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=whi
 
 ## 💻 Technologies
 
- ![Typescript/code-TypeScript-informational?style=flat-square-square&logo=typescript)
- ![Nest .js/code-Nestjs-informational?style=flat-square&logo=nestjs)
- ![Node .js/code-Node .js-informational?style=flat-square&logo=node .js)
- ![Javascript/code-JavaScript-informational?style=flat-square&logo=javascript)
- ![GraphQL/-GraphQL-E10098?style=flat-square&logo=graphql)
- ![Next .js/front-Next .js-informational?style=flat-square&logo=next .js)
- ![React/front-React-informational?style=flat-square&logo=react)
+ ![Typescript/TypeScript-informational?style=flat-square-square&logo=typescript)
+ ![Nest .js/Nestjs-informational?style=flat-square&logo=nestjs)
+ ![Node .js/Node .js-informational?style=flat-square&logo=node .js)
+ ![Javascript/JavaScript-informational?style=flat-square&logo=javascript)
+ ![GraphQL/GraphQL-E10098?style=flat-square&logo=graphql)
+ ![Next .js/Next .js-informational?style=flat-square&logo=next .js)
+ ![React/React-informational?style=flat-square&logo=react)
  ![PosgreSQL/DB-PosgreSQL-informational?style=flat-square&logo=posgresql)
  ![MongoDB/DB-MongoDB-informational?style=flat-square&logo=mongodb)
  ![MySQL/-MySQL-black?style=flat-square&logo=mysql)
