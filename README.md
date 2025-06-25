@@ -27,9 +27,9 @@ Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=whi
 *AI doesn't write code for me, but I'm using AI to write efficent code*
 
  ![Google Gemini/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
- ![Claude/AI-Claude-informational?style=flat-square-square&logo=claude)
- ![Warp/AI-Warp-informational?style=flat-square-square&logo=warp)
- ![Cursor/AI-Cursor-informational?style=flat-square-square&logo=cursor)
+ ![Claude/Claude-D97757?logo=claude&logoColor=fff)
+ ![Warp/Warp-informational?style=flat-square-square&logo=warp)
+ ![Cursor/Cursor-informational?style=flat-square-square&logo=cursor)
  v0/v0-000?logo=v0&logoColor=fff)](#)
 
 ## 💻 Technologies
