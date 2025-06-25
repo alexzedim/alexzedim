@@ -49,7 +49,7 @@ Here are some ideas to get you started:
  ![Clickhouse](https://img.shields.io/badge/Clickhouse-informational?style=flat-square&logo=clickhouse)
  ![AWS S3](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
  ![Minio](https://img.shields.io/badge/Minio-informational?style=flat-square&logo=minio)
- ![Grafana](https://img.shields.io/badge/Grafana-informational?style=flat-square&logo=grafana)
+ ![Grafana](https://img.shields.io/badge/Grafana-orange?style=flat-square&logo=grafana)
  ![Loki](https://img.shields.io/badge/Loki-informational?style=flat-square&logo=loki)
  ![Prometeus](https://img.shields.io/badge/Prometeus-informational?style=flat-square&logo=prometeus)
  ![BullMQ](https://img.shields.io/badge/BullMQ-informational?style=flat-square&logo=bull)
