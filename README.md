@@ -79,4 +79,4 @@ Here are some ideas to get you started:
 ## Projects:
 
 [![C M N W](https://github.com/user-attachments/assets/26af96b1-f3d5-444b-bf7c-144e544ccaaa)](https://github.com/alexzedim/cmnw)
-[![C M N W](https://svg.bookmark.style/api?url=https://github.com/alexzedim/cmnw-oraculum)](https://github.com/alexzedim/cmnw-oraculum)
+[![O R A](https://github.com/user-attachments/assets/09035d4b-abe9-4819-9041-6959a803c4d0)](https://github.com/alexzedim/cmnw-oraculum)
