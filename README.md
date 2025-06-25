@@ -60,7 +60,7 @@ Here are some ideas to get you started:
  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
  ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
- ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-informational?style=flat-square&logo=githubactions)
+ ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-white?style=flat-square&logo=githubactions)
  ![Portainer](https://img.shields.io/badge/Portainer-informational?style=flat-square&logo=portainer)
  ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)
  ![Web3.js](https://img.shields.io/badge/Web_3-informational?style=flat-square&logo=web3dotjs)
