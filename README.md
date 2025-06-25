@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 ## 💻 Technologies
 
  ![Typescript](https://img.shields.io/badge/TypeScript-informational?style=flat-square-square&logo=typescript)
- ![Nest.js](https://img.shields.io/badge/Nestjs-informational?style=flat-square&logo=nestjs)
- ![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat-square&logo=node.js)
+ ![Nest.js](https://img.shields.io/badge/Nestjs-red?style=flat-square&logo=nestjs)
+ ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
  ![Javascript](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript)
  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql)
  ![Next.js](https://img.shields.io/badge/Next.js-informational?style=flat-square&logo=next.js)
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
  ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb)
  ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
  ![Redis](https://img.shields.io/badge/Redis-informational?style=flat-square&logo=redis)
- ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-informational?style=flat-square&logo=elasticsearch)
+ ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=flat-square&logo=elasticsearch)
  ![Clickhouse](https://img.shields.io/badge/Clickhouse-informational?style=flat-square&logo=clickhouse)
  ![s3](https://img.shields.io/badge/s3-informational?style=flat-square&logo=s3)
  ![Minio](https://img.shields.io/badge/Minio-informational?style=flat-square&logo=minio)
