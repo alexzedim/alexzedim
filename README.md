@@ -72,7 +72,7 @@ Here are some ideas to get you started:
  ![VSC](https://img.shields.io/badge/VSC-informational?style=flat-square&logo=visual-studio-code)
  ![Fleet](https://img.shields.io/badge/Fleet-informational?style=flat-square&logo=fleet)
  ![git](https://img.shields.io/badge/git-informational?style=flat-square&logo=git)
- ![Jira](https://img.shields.io/badge/Jira-informational?style=flat-square&logo=jira)
+ ![Jira](https://img.shields.io/badge/Jira-blue?style=flat-square&logo=jira)
  ![Trello](https://img.shields.io/badge/Trello-informational?style=flat-square&logo=trello)
  ![Redmine](https://img.shields.io/badge/Redmine-red?style=flat-square&logo=redmine)
 
