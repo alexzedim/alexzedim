@@ -53,7 +53,7 @@ Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=whi
  ![Loki/Loki-informational?style=flat-square&logo=loki)
  ![Prometeus/Prometeus-informational?style=flat-square&logo=prometeus)
  ![BullMQ/BullMQ-informational?style=flat-square&logo=bull)
- ![RabbitMQ/RabbitMQ-informational?style=flat-square&logo=rabbitmq)
+ ![RabbitMQ/RabbitMQ-orange?style=flat-square&logo=rabbitmq&logoColor=fff)
  ![Jest/Jest-informational?style=flat-square&logo=jest)
  ![Docker/Docker-2496ED?logo=docker&logoColor=fff)
  ![DigitalOcean/Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
