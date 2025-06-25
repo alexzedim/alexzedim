@@ -60,7 +60,7 @@ Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=whi
  ![Amazon AWS/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
  ![Microsoft Azure/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
  ![Google Cloud/Google%20Cloud-black?style=flat-square&logo=google-cloud)
- ![GitHub_Actions/GitHub_Actions-informational?style=flat-square&logo=githubactions)
+ ![GitHub_Actions/GitHub_Actions-white?style=flat-square&logo=githubactions)
  ![Portainer/Portainer-informational?style=flat-square&logo=portainer)
  ![Neo4J/Neo4j-008CC1?logo=neo4j&logoColor=white)
  ![Web3 .js/Web_3-informational?style=flat-square&logo=web3dotjs)
