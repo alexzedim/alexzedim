@@ -33,7 +33,7 @@ Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=whi
 
 ## 💻 Technologies
 
- ![Typescript/TypeScript-blue?style=flat-square-square&logo=typescript)
+ ![Typescript/TypeScript-white?style=flat-square-square&logo=typescript)
  ![Nest .js/Nestjs-red?style=flat-square&logo=nestjs)
  ![Node .js/Node .js-black?style=flat-square&logo=node .js)
  ![Javascript/JavaScript-informational?style=flat-square&logo=javascript)
