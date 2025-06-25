@@ -26,10 +26,11 @@ Here are some ideas to get you started:
 
 *AI doesn't write code for me, but I'm using AI to write efficent code*
 
- ![Gemini](https://img.shields.io/badge/AI-Gemini-informational?style=flat-square-square&logo=googlegemini)
+ ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
  ![Claude](https://img.shields.io/badge/AI-Claude-informational?style=flat-square-square&logo=claude)
  ![Warp](https://img.shields.io/badge/AI-Warp-informational?style=flat-square-square&logo=warp)
  ![Cursor](https://img.shields.io/badge/AI-Cursor-informational?style=flat-square-square&logo=cursor)
+ [![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff)](#)
 
 ## 💻 Technologies
 
