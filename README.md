@@ -67,7 +67,7 @@ Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=whi
  ![Solidity/Solidity-informational?style=flat-square&logo=solidity)
  ![Datagrip/Datagrip-informational?style=flat-square&logo=datagrip)
  ![Ubuntu/Ubuntu-E95420?logo=ubuntu&logoColor=white)
- ![Powershell/Powershell-2478CC??style=flat-square&logo=powershell&logoColor=fff)
+ ![Powershell/Powershell-2478CC??style=flat-square&logo=ps&logoColor=fff)
  ![WebStorm/WebStorm-000?logo=webstorm&logoColor=fff)
  ![VSC/VSC-black?style=flat-square&logo=visual-studio-code)
  ![Fleet/Fleet-informational?style=flat-square&logo=fleet)
