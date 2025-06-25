@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 
 ## 💻 Technologies
 
- ![Typescript](https://img.shields.io/badge/TypeScript-white?style=flat-square-square&logo=typescript)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
  ![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)
  ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
- ![Javascript](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql)
  ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
  ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
  ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=flat-square&logo=elasticsearch)
  ![Clickhouse](https://img.shields.io/badge/Clickhouse-informational?style=flat-square&logo=clickhouse)
- ![AWS-s3](https://img.shields.io/badge/AWS_s3-informational?style=flat-square&logo=awss3)
+ ![AWS S3](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
  ![Minio](https://img.shields.io/badge/Minio-informational?style=flat-square&logo=minio)
  ![Grafana](https://img.shields.io/badge/Grafana-informational?style=flat-square&logo=grafana)
  ![Loki](https://img.shields.io/badge/Loki-informational?style=flat-square&logo=loki)
