@@ -74,7 +74,7 @@ Here are some ideas to get you started:
  ![git](https://img.shields.io/badge/git-informational?style=flat-square&logo=git)
  ![Jira](https://img.shields.io/badge/Jira-informational?style=flat-square&logo=jira)
  ![Trello](https://img.shields.io/badge/Trello-informational?style=flat-square&logo=trello)
- ![Redmine](https://img.shields.io/badge/Redmine-informational?style=flat-square&logo=redmine)
+ ![Redmine](https://img.shields.io/badge/Redmine-red?style=flat-square&logo=redmine)
 
 ### 🛠️ GitHub Stats
 
