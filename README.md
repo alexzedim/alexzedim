@@ -72,7 +72,7 @@ Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=whi
  ![VSC/VSC-informational?style=flat-square&logo=visual-studio-code)
  ![Fleet/Fleet-informational?style=flat-square&logo=fleet)
  ![git/git-informational?style=flat-square&logo=git)
- ![Jira/Jira-informational?style=flat-square&logo=jira)
+ ![Jira/Jira-blue?style=flat-square&logo=jira)
  ![Trello/Trello-informational?style=flat-square&logo=trello)
  ![Redmine/Redmine-red?style=flat-square&logo=redmine)
 
