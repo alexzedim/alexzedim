@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## 💻 Technologies
 
- ![Typescript](https://img.shields.io/badge/TypeScript-blue?style=flat-square-square&logo=typescript)
+ ![Typescript](https://img.shields.io/badge/TypeScript-white?style=flat-square-square&logo=typescript)
  ![Nest.js](https://img.shields.io/badge/Nestjs-red?style=flat-square&logo=nestjs)
  ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
  ![Javascript](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript)
