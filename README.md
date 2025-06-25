@@ -49,7 +49,7 @@ Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=whi
  ![Clickhouse/Clickhouse-informational?style=flat-square&logo=clickhouse)
  ![AWS S3](https://custom-icon-badges .demolab .com/badge/AWS-%23FF9900 .svg?logo=aws&logoColor=white)
  ![Minio/Minio-informational?style=flat-square&logo=minio)
- ![Grafana/Grafana-orange?style=flat-square&logo=grafana)
+ ![Grafana/Grafana-orange?style=flat-square&logo=grafana&logoColor=fff)
  ![Loki/Loki-informational?style=flat-square&logo=loki)
  ![Prometeus/Prometeus-informational?style=flat-square&logo=prometeus)
  ![BullMQ/BullMQ-informational?style=flat-square&logo=bull)
