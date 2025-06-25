@@ -29,8 +29,8 @@ Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=whi
  ![Google Gemini/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
  ![Claude/Claude-D97757?logo=claude&logoColor=fff)
  ![Warp/Warp-black?style=flat-square-square&logo=warp)
- ![Cursor/Cursor-informational?style=flat-square-square&logo=cursor)
- v0/v0-000?logo=v0&logoColor=fff)](#)
+ ![Cursor](https://custom-icon-badges .demolab .com/badge/Cursor-000000?logo=cursor-ai-white)
+ ![v0/v0-000?logo=v0&logoColor=fff)
 
 ## 💻 Technologies
 
