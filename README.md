@@ -61,7 +61,7 @@ Here are some ideas to get you started:
  ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
  ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-white?style=flat-square&logo=githubactions)
- ![Portainer](https://img.shields.io/badge/Portainer-informational?style=flat-square&logo=portainer)
+ ![Portainer](https://img.shields.io/badge/Portainer-white?style=flat-square&logo=portainer)
  ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)
  ![Web3.js](https://img.shields.io/badge/Web_3-informational?style=flat-square&logo=web3dotjs)
  ![Solidity](https://img.shields.io/badge/Solidity-informational?style=flat-square&logo=solidity)
