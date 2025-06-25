@@ -34,10 +34,10 @@ Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=whi
 
 ## 💻 Technologies
 
- ![Typescript/TypeScript-white?style=flat-square-square&logo=typescript)
+ ![TypeScript/TypeScript-3178C6?logo=typescript&logoColor=fff)
  ![Nest/Nest .js-%23E0234E .svg?logo=nestjs&logoColor=white)
  ![NodeJS/Node .js-6DA55F?logo=node .js&logoColor=white)
- ![Javascript/JavaScript-informational?style=flat-square&logo=javascript)
+ ![JavaScript/JavaScript-F7DF1E?logo=javascript&logoColor=000)
  ![GraphQL/GraphQL-E10098?style=flat-square&logo=graphql)
  ![Next .js/Next .js-black?logo=next .js&logoColor=white)
  ![React/React-%2320232a .svg?logo=react&logoColor=%2361DAFB)
@@ -47,7 +47,7 @@ Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=whi
  ![Redis/Redis-%23DD0031 .svg?logo=redis&logoColor=white)
  ![Elasticsearch/Elasticsearch-black?style=flat-square&logo=elasticsearch)
  ![Clickhouse/Clickhouse-informational?style=flat-square&logo=clickhouse)
- ![AWS-s3/AWS_s3-informational?style=flat-square&logo=awss3)
+ ![AWS S3](https://custom-icon-badges .demolab .com/badge/AWS-%23FF9900 .svg?logo=aws&logoColor=white)
  ![Minio/Minio-informational?style=flat-square&logo=minio)
  ![Grafana/Grafana-informational?style=flat-square&logo=grafana)
  ![Loki/Loki-informational?style=flat-square&logo=loki)
