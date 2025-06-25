@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 
 ## 💻 Technologies
 
- ![Typescript](https://img.shields.io/badge/code-TypeScript-informational?style=flat-square-square&logo=typescript)
- ![Nest.js](https://img.shields.io/badge/code-Nestjs-informational?style=flat-square&logo=nestjs)
- ![Node.js](https://img.shields.io/badge/code-Node.js-informational?style=flat-square&logo=node.js)
- ![Javascript](https://img.shields.io/badge/code-JavaScript-informational?style=flat-square&logo=javascript)
- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
- ![Next.js](https://img.shields.io/badge/front-Next.js-informational?style=flat-square&logo=next.js)
- ![React](https://img.shields.io/badge/front-React-informational?style=flat-square&logo=react)
+ ![Typescript](https://img.shields.io/badge/TypeScript-informational?style=flat-square-square&logo=typescript)
+ ![Nest.js](https://img.shields.io/badge/Nestjs-informational?style=flat-square&logo=nestjs)
+ ![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat-square&logo=node.js)
+ ![Javascript](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript)
+ ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql)
+ ![Next.js](https://img.shields.io/badge/Next.js-informational?style=flat-square&logo=next.js)
+ ![React](https://img.shields.io/badge/React-informational?style=flat-square&logo=react)
  ![PosgreSQL](https://img.shields.io/badge/DB-PosgreSQL-informational?style=flat-square&logo=posgresql)
  ![MongoDB](https://img.shields.io/badge/DB-MongoDB-informational?style=flat-square&logo=mongodb)
  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
