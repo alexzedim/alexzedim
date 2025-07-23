@@ -75,6 +75,8 @@ Here are some ideas to get you started:
  ![Jira](https://img.shields.io/badge/Jira-blue?style=flat-square&logo=jira)
  ![Trello](https://img.shields.io/badge/Trello-informational?style=flat-square&logo=trello)
  ![Redmine](https://img.shields.io/badge/Redmine-red?style=flat-square&logo=redmine)
+ ![Dify](https://img.shields.io/badge/Dify-red?style=flat-square&logo=dify)
+ ![Ollama](https://img.shields.io/badge/Ollama-red?style=flat-square&logo=ollama)
 
 ### 🛠️ GitHub Stats
 
