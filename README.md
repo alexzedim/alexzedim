@@ -75,6 +75,8 @@ Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=whi
  ![Jira/Jira-blue?style=flat-square&logo=jira)
  ![Trello/Trello-informational?style=flat-square&logo=trello)
  ![Redmine/Redmine-red?style=flat-square&logo=redmine)
+ ![Dify/Dify-red?style=flat-square&logo=dify)
+ ![Ollama/Ollama-red?style=flat-square&logo=ollama)
 
 ### 🛠️ GitHub Stats
 
