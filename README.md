@@ -29,9 +29,7 @@ Here are some ideas to get you started:
  ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
  ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
  ![Warp](https://img.shields.io/badge/Warp-black?style=flat-square-square&logo=warp)
- ![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)
- ![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff)
-
+ ![Kilo](https://custom-icon-badges.demolab.com/badge/Kilo-000000?logo=cursor-ai-white)
 ## 💻 Technologies
 
  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
