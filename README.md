@@ -75,6 +75,8 @@ Here are some ideas to get you started:
  ![Redmine](https://img.shields.io/badge/Redmine-red?style=flat-square&logo=redmine)
  ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama)
 
+ [![AlexZeDim's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=alexzedim)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
 ## Projects:
 
 [![C M N W](https://github.com/user-attachments/assets/26af96b1-f3d5-444b-bf7c-144e544ccaaa)](https://github.com/alexzedim/cmnw)
