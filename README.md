@@ -75,6 +75,8 @@ Telegram Badge/-sasha_spb_dev-blue?style=flat-square&logo=Telegram&logoColor=whi
  ![Redmine/Redmine-red?style=flat-square&logo=redmine)
  ![Ollama/Ollama-black?style=flat-square&logo=ollama)
 
+ 's GitHub stats](https://github-readme-stats-fast .vercel .app/api?username=alexzedim)](https://github .com/pranesh-2005/github-readme-stats-fast)
+
 ## Projects:
 
 C M N W](https://github .com/user-attachments/assets/26af96b1-f3d5-444b-bf7c-144e544ccaaa)](https://github .com/alexzedim/cmnw)
