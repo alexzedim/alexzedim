@@ -22,60 +22,115 @@ Here are some ideas to get you started:
 [![Stackoverflow](https://img.shields.io/badge/-alexzedim-orange?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/7475615/alexzedim)](https://stackoverflow.com/users/7475615/alexzedim)
 [![ENS](https://img.shields.io/badge/-alexzedim-blue?style=flat-square&logo=ENS&logoColor=white&link=https://alexzedim.eth)](https://alexzedim.eth)
 
-## ⚡ AI
+## 💻 My Skills
 
-*AI doesn't write code for me, but I'm using AI to write efficent code*
+<p align="center"><i>AI doesn't write code for me, but I use AI and automation to ship efficient, observable systems.</i></p>
 
- ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
- ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
- ![Warp](https://img.shields.io/badge/Warp-black?style=flat-square-square&logo=warp)
+<table align="center">
+<tbody>
+<tr>
+<td colspan="6" align="center"><b>🤖 AI Assistants &amp; Agents</b></td>
+</tr>
+<tr align="center">
+<td><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini logo" width="48"/><br/>Gemini</td>
+<td><img src="https://cdn.simpleicons.org/anthropic/CA8D6E" alt="Claude logo" width="48"/><br/>Claude</td>
+<td><img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI logo" width="48"/><br/>OpenAI</td>
+<td><img src="https://cdn.simpleicons.org/warp/01A4FF" alt="Warp logo" width="48"/><br/>Warp</td>
+<td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMjAgMTIwJz48cmVjdCB3aWR0aD0nMTIwJyBoZWlnaHQ9JzEyMCcgcng9JzI2JyBmaWxsPScjMTExODI3Jy8+PHRleHQgeD0nNTAlJyB5PSc1OCUnIGZvbnQtZmFtaWx5PSdTZWdvZSBVSSwgSW50ZXIsIHNhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nNzAnIGZpbGw9JyM2MEE1RkEnIHRleHQtYW5jaG9yPSdtaWRkbGUnPks8L3RleHQ+PC9zdmc+" alt="Kilo logo" width="48"/><br/>Kilo</td>
+<td><img src="https://cdn.simpleicons.org/ollama/000000" alt="Ollama logo" width="48"/><br/>Ollama</td>
+</tr>
+<tr>
+<td colspan="6" align="center"><b>🧩 Application Stack</b></td>
+</tr>
+<tr align="center">
+<td><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript logo" width="48"/><br/>TypeScript</td>
+<td><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript logo" width="48"/><br/>JavaScript</td>
+<td><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js logo" width="48"/><br/>Node.js</td>
+<td><img src="https://cdn.simpleicons.org/bun/000000" alt="Bun logo" width="48"/><br/>Bun</td>
+<td><img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS logo" width="48"/><br/>NestJS</td>
+<td><img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js logo" width="48"/><br/>Next.js</td>
+<td><img src="https://cdn.simpleicons.org/react/61DAFB" alt="React logo" width="48"/><br/>React</td>
+</tr>
+<tr>
+<td colspan="4" align="center"><b>🌐 APIs &amp; Web3</b></td>
+</tr>
+<tr align="center">
+<td><img src="https://cdn.simpleicons.org/graphql/E10098" alt="GraphQL logo" width="48"/><br/>GraphQL</td>
+<td><img src="https://cdn.simpleicons.org/langchain/1B7F5C" alt="LangChain logo" width="48"/><br/>LangChain</td>
+<td><img src="https://cdn.simpleicons.org/web3dotjs/F16822" alt="Web3.js logo" width="48"/><br/>Web3.js</td>
+<td><img src="https://cdn.simpleicons.org/solidity/363636" alt="Solidity logo" width="48"/><br/>Solidity</td>
+</tr>
+<tr>
+<td colspan="7" align="center"><b>📦 Infrastructure &amp; Observability</b></td>
+</tr>
+<tr align="center">
+<td><img src="https://cdn.simpleicons.org/minio/C72E49" alt="MinIO logo" width="48"/><br/>MinIO</td>
+<td><img src="https://cdn.simpleicons.org/elasticsearch/005571" alt="Elasticsearch logo" width="48"/><br/>Elasticsearch</td>
+<td><img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana logo" width="48"/><br/>Grafana</td>
+<td><img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus logo" width="48"/><br/>Prometheus</td>
+<td><img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" alt="Loki logo" width="48"/><br/>Loki</td>
+<td><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" alt="RabbitMQ logo" width="48"/><br/>RabbitMQ</td>
+<td><img src="https://raw.githubusercontent.com/taskforcesh/bullmq/master/docs/.vuepress/public/logo.svg" alt="BullMQ logo" width="48"/><br/>BullMQ</td>
+</tr>
+<tr>
+<td colspan="7" align="center"><b>🗄️ Data Stores &amp; Pipelines</b></td>
+</tr>
+<tr align="center">
+<td><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL logo" width="48"/><br/>PostgreSQL</td>
+<td><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL logo" width="48"/><br/>MySQL</td>
+<td><img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB logo" width="48"/><br/>MongoDB</td>
+<td><img src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis logo" width="48"/><br/>Redis</td>
+<td><img src="https://cdn.simpleicons.org/clickhouse/FFCC01" alt="ClickHouse logo" width="48"/><br/>ClickHouse</td>
+<td><img src="https://cdn.simpleicons.org/neo4j/008CC1" alt="Neo4j logo" width="48"/><br/>Neo4j</td>
+<td><img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" alt="Qdrant logo" width="48"/><br/>Qdrant</td>
+</tr>
+<tr>
+<td colspan="7" align="center"><b>☁️ Cloud &amp; DevOps</b></td>
+</tr>
+<tr align="center">
+<td><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" alt="Amazon Web Services logo" width="48"/><br/>Amazon AWS</td>
+<td><img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud logo" width="48"/><br/>Google Cloud</td>
+<td><img src="https://cdn.simpleicons.org/digitalocean/0080FF" alt="DigitalOcean logo" width="48"/><br/>DigitalOcean</td>
+<td><img src="https://cdn.simpleicons.org/hetzner/D50C2D" alt="Hetzner logo" width="48"/><br/>Hetzner</td>
+<td><img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker logo" width="48"/><br/>Docker</td>
+<td><img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions logo" width="48"/><br/>GitHub Actions</td>
+<td><img src="https://cdn.simpleicons.org/portainer/13BEF9" alt="Portainer logo" width="48"/><br/>Portainer</td>
+</tr>
+<tr>
+<td colspan="5" align="center"><b>📦 Infrastructure &amp; Observability</b></td>
+</tr>
+<tr align="center">
+<td><img src="https://cdn.simpleicons.org/minio/C72E49" alt="MinIO logo" width="48"/><br/>MinIO</td>
+<td><img src="https://cdn.simpleicons.org/elasticsearch/005571" alt="Elasticsearch logo" width="48"/><br/>Elasticsearch</td>
+<td><img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana logo" width="48"/><br/>Grafana</td>
+<td><img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus logo" width="48"/><br/>Prometheus</td>
+<td><img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" alt="Loki logo" width="48"/><br/>Loki</td>
+</tr>
+<tr>
+<td colspan="6" align="center"><b>🛠️ Tooling &amp; IDEs</b></td>
+</tr>
+<tr align="center">
+<td><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/visual-studio-code.svg" alt="Visual Studio Code logo" width="48"/><br/>VS Code</td>
+<td><img src="https://cdn.simpleicons.org/webstorm/00C4FF" alt="WebStorm logo" width="48"/><br/>WebStorm</td>
+<td><img src="https://cdn.simpleicons.org/datagrip/21D789" alt="DataGrip logo" width="48"/><br/>DataGrip</td>
+<td><img src="https://cdn.simpleicons.org/git/F05032" alt="Git logo" width="48"/><br/>Git</td>
+<td><img src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu logo" width="48"/><br/>Ubuntu</td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" alt="PowerShell logo" width="48"/><br/>PowerShell</td>
+</tr>
+<tr>
+<td colspan="5" align="center"><b>🤝 Collaboration &amp; Quality</b></td>
+</tr>
+<tr align="center">
+<td><img src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira logo" width="48"/><br/>Jira</td>
+<td><img src="https://cdn.simpleicons.org/trello/0052CC" alt="Trello logo" width="48"/><br/>Trello</td>
+<td><img src="https://cdn.simpleicons.org/redmine/B32024" alt="Redmine logo" width="48"/><br/>Redmine</td>
+<td><img src="https://cdn.simpleicons.org/jest/C21325" alt="Jest logo" width="48"/><br/>Jest</td>
+<td><img src="https://cdn.simpleicons.org/stackoverflow/F58025" alt="StackOverflow logo" width="48"/><br/>StackOverflow</td>
+</tr>
+</tbody>
+</table>
 
-## 💻 Technologies
-
- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
- ![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)
- ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql)
- ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
- ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
- ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
- ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
- ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=flat-square&logo=elasticsearch)
- ![Clickhouse](https://img.shields.io/badge/Clickhouse-informational?style=flat-square&logo=clickhouse)
- ![AWS S3](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
- ![Minio](https://img.shields.io/badge/Minio-informational?style=flat-square&logo=minio)
- ![Grafana](https://img.shields.io/badge/Grafana-orange?style=flat-square&logo=grafana&logoColor=fff)
- ![Loki](https://img.shields.io/badge/Loki-informational?style=flat-square&logo=loki)
- ![Prometeus](https://img.shields.io/badge/Prometeus-informational?style=flat-square&logo=prometeus)
- ![BullMQ](https://img.shields.io/badge/BullMQ-informational?style=flat-square&logo=bull)
- ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-orange?style=flat-square&logo=rabbitmq&logoColor=fff)
- ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)
- ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
- ![DigitalOcean](https://img.shields.io/badge/Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
- ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
- ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-white?style=flat-square&logo=githubactions)
- ![Portainer](https://img.shields.io/badge/Portainer-white?style=flat-square&logo=portainer)
- ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)
- ![Web3.js](https://img.shields.io/badge/Web_3-informational?style=flat-square&logo=web3dotjs)
- ![Solidity](https://img.shields.io/badge/Solidity-informational?style=flat-square&logo=solidity)
- ![Datagrip](https://img.shields.io/badge/Datagrip-purple?style=flat-square&logo=datagrip)
- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
- ![Powershell](https://img.shields.io/badge/Powershell-2478CC?style=flat-square&logo=powershell&logoColor=fff)
- ![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)
- ![VSC](https://img.shields.io/badge/VSC-black?style=flat-square&logo=visual-studio-code)
- ![Fleet](https://img.shields.io/badge/Fleet-informational?style=flat-square&logo=fleet)
- ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
- ![Jira](https://img.shields.io/badge/Jira-blue?style=flat-square&logo=jira)
- ![Trello](https://img.shields.io/badge/Trello-informational?style=flat-square&logo=trello)
- ![Redmine](https://img.shields.io/badge/Redmine-red?style=flat-square&logo=redmine)
- ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama)
-
- [![AlexZeDim's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=alexzedim)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![AlexZeDim's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=alexzedim)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ## Projects:
 
