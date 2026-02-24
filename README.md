@@ -1,18 +1,3 @@
-<!--
-**AlexZeDim/alexzedim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## ✨ Sasha
 
 [![Gmail Badge](https://img.shields.io/badge/-alexzedim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexzedim@gmail.com)](mailto:alexzedim@gmail.com)
@@ -29,18 +14,22 @@ Here are some ideas to get you started:
 <table align="center">
 <tbody>
 <tr>
-<td colspan="6" align="center"><b>🤖 AI Assistants &amp; Agents</b></td>
+<td colspan="10" align="center"><b>🤖 AI Assistants & Agents</b></td>
 </tr>
 <tr align="center">
 <td><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini logo" width="48"/><br/>Gemini</td>
 <td><img src="https://cdn.simpleicons.org/anthropic/CA8D6E" alt="Claude logo" width="48"/><br/>Claude</td>
-<td><img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI logo" width="48"/><br/>OpenAI</td>
+<td><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/openai.svg" alt="OpenAI logo" width="48"/><br/>OpenAI</td>
 <td><img src="https://cdn.simpleicons.org/warp/01A4FF" alt="Warp logo" width="48"/><br/>Warp</td>
 <td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMjAgMTIwJz48cmVjdCB3aWR0aD0nMTIwJyBoZWlnaHQ9JzEyMCcgcng9JzI2JyBmaWxsPScjMTExODI3Jy8+PHRleHQgeD0nNTAlJyB5PSc1OCUnIGZvbnQtZmFtaWx5PSdTZWdvZSBVSSwgSW50ZXIsIHNhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nNzAnIGZpbGw9JyM2MEE1RkEnIHRleHQtYW5jaG9yPSdtaWRkbGUnPks8L3RleHQ+PC9zdmc+" alt="Kilo logo" width="48"/><br/>Kilo</td>
 <td><img src="https://cdn.simpleicons.org/ollama/000000" alt="Ollama logo" width="48"/><br/>Ollama</td>
+<td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMjAgMTIwJz48cmVjdCB3aWR0aD0nMTIwJyBoZWlnaHQ9JzEyMCcgcng9JzI2JyBmaWxsPScjMTExODI3Jy8+PHRleHQgeD0nNTAlJyB5PSc1OCUnIGZvbnQtZmFtaWx5PSdTZWdvZSBVSSwgSW50ZXIsIHNhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nNDUnIGZpbGw9JyM2MEE1RkEnIHRleHQtYW5jaG9yPSdtaWRkbGUnPktDPC90ZXh0Pjwvc3ZnPg==" alt="Kilo Code logo" width="48"/><br/>Kilo Code</td>
+<td><img src="https://cdn.simpleicons.org/openrouter/8B5CF6" alt="OpenRouter logo" width="48"/><br/>OpenRouter</td>
+<td><img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n logo" width="48"/><br/>n8n</td>
+<td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMjAgMTIwJz48cmVjdCB3aWR0aD0nMTIwJyBoZWlnaHQ9JzEyMCcgcng9JzI2JyBmaWxsPScjMTExODI3Jy8+PHRleHQgeD0nNTAlJyB5PSc1OCUnIGZvbnQtZmFtaWx5PSdTZWdvZSBVSSwgSW50ZXIsIHNhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nNTAnIGZpbGw9JyM2MEE1RkEnIHRleHQtYW5jaG9yPSdtaWRkbGUnPlo8L3RleHQ+PC9zdmc+" alt="Z.ai logo" width="48"/><br/>Z.ai</td>
 </tr>
 <tr>
-<td colspan="6" align="center"><b>🧩 Application Stack</b></td>
+<td colspan="7" align="center"><b>🧩 Application Stack</b></td>
 </tr>
 <tr align="center">
 <td><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript logo" width="48"/><br/>TypeScript</td>
@@ -52,7 +41,7 @@ Here are some ideas to get you started:
 <td><img src="https://cdn.simpleicons.org/react/61DAFB" alt="React logo" width="48"/><br/>React</td>
 </tr>
 <tr>
-<td colspan="4" align="center"><b>🌐 APIs &amp; Web3</b></td>
+<td colspan="4" align="center"><b>🌐 APIs & Web3</b></td>
 </tr>
 <tr align="center">
 <td><img src="https://cdn.simpleicons.org/graphql/E10098" alt="GraphQL logo" width="48"/><br/>GraphQL</td>
@@ -61,7 +50,7 @@ Here are some ideas to get you started:
 <td><img src="https://cdn.simpleicons.org/solidity/363636" alt="Solidity logo" width="48"/><br/>Solidity</td>
 </tr>
 <tr>
-<td colspan="7" align="center"><b>📦 Infrastructure &amp; Observability</b></td>
+<td colspan="6" align="center"><b>📦 Infrastructure & Observability</b></td>
 </tr>
 <tr align="center">
 <td><img src="https://cdn.simpleicons.org/minio/C72E49" alt="MinIO logo" width="48"/><br/>MinIO</td>
@@ -70,10 +59,9 @@ Here are some ideas to get you started:
 <td><img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus logo" width="48"/><br/>Prometheus</td>
 <td><img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" alt="Loki logo" width="48"/><br/>Loki</td>
 <td><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" alt="RabbitMQ logo" width="48"/><br/>RabbitMQ</td>
-<td><img src="https://raw.githubusercontent.com/taskforcesh/bullmq/master/docs/.vuepress/public/logo.svg" alt="BullMQ logo" width="48"/><br/>BullMQ</td>
 </tr>
 <tr>
-<td colspan="7" align="center"><b>🗄️ Data Stores &amp; Pipelines</b></td>
+<td colspan="7" align="center"><b>🗄️ Data Stores & Pipelines</b></td>
 </tr>
 <tr align="center">
 <td><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL logo" width="48"/><br/>PostgreSQL</td>
@@ -85,7 +73,7 @@ Here are some ideas to get you started:
 <td><img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" alt="Qdrant logo" width="48"/><br/>Qdrant</td>
 </tr>
 <tr>
-<td colspan="7" align="center"><b>☁️ Cloud &amp; DevOps</b></td>
+<td colspan="7" align="center"><b>☁️ Cloud & DevOps</b></td>
 </tr>
 <tr align="center">
 <td><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" alt="Amazon Web Services logo" width="48"/><br/>Amazon AWS</td>
@@ -97,17 +85,7 @@ Here are some ideas to get you started:
 <td><img src="https://cdn.simpleicons.org/portainer/13BEF9" alt="Portainer logo" width="48"/><br/>Portainer</td>
 </tr>
 <tr>
-<td colspan="5" align="center"><b>📦 Infrastructure &amp; Observability</b></td>
-</tr>
-<tr align="center">
-<td><img src="https://cdn.simpleicons.org/minio/C72E49" alt="MinIO logo" width="48"/><br/>MinIO</td>
-<td><img src="https://cdn.simpleicons.org/elasticsearch/005571" alt="Elasticsearch logo" width="48"/><br/>Elasticsearch</td>
-<td><img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana logo" width="48"/><br/>Grafana</td>
-<td><img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus logo" width="48"/><br/>Prometheus</td>
-<td><img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" alt="Loki logo" width="48"/><br/>Loki</td>
-</tr>
-<tr>
-<td colspan="6" align="center"><b>🛠️ Tooling &amp; IDEs</b></td>
+<td colspan="6" align="center"><b>🛠️ Tooling & IDEs</b></td>
 </tr>
 <tr align="center">
 <td><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/visual-studio-code.svg" alt="Visual Studio Code logo" width="48"/><br/>VS Code</td>
@@ -118,7 +96,7 @@ Here are some ideas to get you started:
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" alt="PowerShell logo" width="48"/><br/>PowerShell</td>
 </tr>
 <tr>
-<td colspan="5" align="center"><b>🤝 Collaboration &amp; Quality</b></td>
+<td colspan="5" align="center"><b>🤝 Collaboration & Quality</b></td>
 </tr>
 <tr align="center">
 <td><img src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira logo" width="48"/><br/>Jira</td>
@@ -132,7 +110,7 @@ Here are some ideas to get you started:
 
 [![AlexZeDim's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=alexzedim)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-## Projects:
+## 🚀 Projects
 
 [![C M N W](https://github.com/user-attachments/assets/26af96b1-f3d5-444b-bf7c-144e544ccaaa)](https://github.com/alexzedim/cmnw)
 [![O R A](https://github.com/user-attachments/assets/859dd493-eff3-41fa-80fa-9bdf05ed859b)](https://github.com/alexzedim/cmnw-oraculum)
