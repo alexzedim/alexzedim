@@ -8,9 +8,6 @@
 
 </div>
 
-
-## ══════════════════════════════════
-
 <div align="center">
 
 ### ⚡ Arsenal
@@ -106,7 +103,7 @@
 
 ---
 
-## ══════════════════════════════════<div align="center">
+<div align="center">
 
 ### 📊 GitHub Stats
 
@@ -116,7 +113,7 @@
 
 ---
 
-## ══════════════════════════════════<div align="center">
+<div align="center">
 
 ### 🚀 Featured Projects
 
