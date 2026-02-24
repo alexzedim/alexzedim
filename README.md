@@ -1,28 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=38bdf8&background=0D1117&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello,+I'm+Sasha+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Enthusiast+%7C+System+Architect" alt="Typing Animation">
-</p>
-
 <div align="center">
 
-<details>
-<summary><b>✨ CLICK TO REVEAL MY STORY</b></summary>
-<br>
 
-<p align="center">
-  <i>I'm a software craftsman who believes in shipping code that's not just functional, but elegant and observable.</i>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRiNDViNWIwZTg2MTU1NzJlNmRkYzFjMmZjMzM0N2I5M2ZiYwZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
-</p>
-
-</details>
+> *"AI doesn't write code for me, but I use AI to write an efficient, observable code."*
 
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alexzedim&style=flat-square&color=38bdf8" alt="Profile Views">
-</p>
 
 ---
 
@@ -32,46 +13,16 @@
 
 ### 🌐 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/alexzedim@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:alexzedim@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/alexzedim/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/sasha_dev_spb/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](discord:alexzedim)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=0D1117)](https://stackoverflow.com/users/7475615/alexzedim)
-[![ENS](https://img.shields.io/badge/ENS-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0D1117)](https://alexzedim.eth)
+[![Gmail](https://img.shields.io/badge/alexzedim@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:alexzedim@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/alexzedim/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/sasha_dev_spb/) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](discord:alexzedim) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=0D1117)](https://stackoverflow.com/users/7475615/alexzedim) [![ENS](https://img.shields.io/badge/ENS-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0D1117)](https://alexzedim.eth)
 
 </div>
 
----
-
-<div align="center">
-
-### 💡 Philosophy
-
-> *"AI doesn't write code for me, but I use AI and automation to ship efficient, observable systems."*
-
-</div>
-
----
 
 ## ══════════════════════════════════════════════════════════════════════════════
 
 <div align="center">
 
-### 🎯 Currently Focused On
-
-[![Learning](https://img.shields.io/badge/🚀_AI_Agents-38bdf8?style=flat-square&logo=openai&labelColor=0D1117&logoColor=white)](#)
-[![Building](https://img.shields.io/badge/🔧_System_Design-8b5cf6?style=flat-square&logo=github&labelColor=0D1117&logoColor=white)](#)
-[![Exploring](https://img.shields.io/badge/🔗_APIs_&_Integration-f97316?style=flat-square&logo=ethereum&labelColor=0D1117&logoColor=white)](#)
-
-</div>
-
----
-
-## ══════════════════════════════════════════════════════════════════════════════
-
-<div align="center">
-
-### ⚡ Tech Arsenal
+### ⚡ Arsenal
 
 </div>
 
@@ -170,9 +121,6 @@
 
 ### 📊 GitHub Stats
 
-![AlexZeDim's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexzedim&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8&border_color=30363d&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexzedim&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9&border_color=30363d)
-
 ![Streak Stats](https://streak-stats.demolab.com/?user=alexzedim&theme=tokyonight&background=0D1117&stroke=38bdf8&ring=38bdf8&fire=fb923c&currStreakLabel=c9d1d9&currStreakNum=38bdf8&sideLabels=c9d1d9&sideNums=38bdf8&dates=c9d1d9)
 
 </div>
@@ -202,7 +150,7 @@
     <td align="center">
       <a href="https://github.com/alexzedim/cmnw"><strong>C M N W</strong></a>
       <br>
-      <i>Content Management Network</i>
+      <i>Data Management Network</i>
     </td>
     <td align="center">
       <a href="https://github.com/alexzedim/cmnw-oraculum"><strong>O R A</strong></a>
@@ -215,63 +163,3 @@
 </div>
 
 ---
-
-## ══════════════════════════════════════════════════════════════════════════════
-
-<div align="center">
-
-### 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alexzedim&theme=tokyo&bg_color=0D1117&color=38bdf8&line=38bdf8&point=38bdf8&area_color=38bdf8&area=true&hide_border=true&radius=16)
-
-</div>
-
----
-
-## ══════════════════════════════════════════════════════════════════════════════
-
-<div align="center">
-
-### 🏆 Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alexzedim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=3)
-
-</div>
-
----
-
-## ══════════════════════════════════════════════════════════════════════════════
-
-<div align="center">
-
-### 💬 Quote of the Moment
-
-<i>"The best way to predict the future is to create it."</i>
-  
-— Abraham Lincoln
-
-</div>
-
----
-
-<div align="center">
-
-### 🎉 Thanks for Visiting!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1TVIvJZ6lOvuRBY/giphy.gif" width="300" alt="Thank You">
-</p>
-
-<p align="center">
-  <sub>Built with 💙 and lots of ☕</sub>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-<small><i>Last Updated: February 2026</i></small>
-
-</div>
