@@ -15,91 +15,129 @@
 </div>
 
 #### 🤖 AI & Automation
-<p align="center">
-  <a href="#"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="50" height="50" alt="Google Gemini" title="Google Gemini"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/anthropic/CA8D6E" width="50" height="50" alt="Claude" title="Claude"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/openai.svg" width="50" height="50" alt="OpenAI" title="OpenAI"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/warp/01A4FF" width="50" height="50" alt="Warp" title="Warp"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/Kilo-Org/kilocode/main/logo.png" width="50" height="50" alt="Kilo Code" title="Kilo Code"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/ollama/000000" width="50" height="50" alt="Ollama" title="Ollama"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/openrouter/8B5CF6" width="50" height="50" alt="OpenRouter" title="OpenRouter"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/langchain/1B7F5C" width="50" height="50" alt="LangChain" title="LangChain"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" height="50" alt="n8n" title="n8n"></a>
-  <a href="#"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMjAgMTIwJz48cmVjdCB3aWR0aD0nMTIwJyBoZWlnaHQ9JzEyMCcgcng9JzI2JyBmaWxsPScjMTExODI3Jy8+PHRleHQgeD0nNTAlJyB5PSc1OCUnIGZvbnQtZmFtaWx5PSdTZWdvZSBVSSwgSW50ZXIsIHNhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nNTAnIGZpbGw9JyM2MEE1RkEnIHRleHQtYW5jaG9yPSdtaWRkbGUnPlo8L3RleHQ+PC9zdmc+" width="50" height="50" alt="Z.ai" title="Z.ai"></a>
-</p>
+<div align="center">
+<table align="center">
+<tr align="center">
+<td valign="bottom"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini logo" width="48"/><br/>Google Gemini</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/anthropic/CA8D6E" alt="Claude logo" width="48"/><br/>Claude</td>
+<td valign="bottom"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/openai.svg" alt="OpenAI logo" width="48"/><br/>OpenAI</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/warp/01A4FF" alt="Warp logo" width="48"/><br/>Warp</td>
+<td valign="bottom"><img src="https://raw.githubusercontent.com/Kilo-Org/kilocode/main/logo.png" alt="Kilo Code logo" width="48"/><br/>Kilo Code</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/ollama/000000" alt="Ollama logo" width="48"/><br/>Ollama</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/openrouter/8B5CF6" alt="OpenRouter logo" width="48"/><br/>OpenRouter</td>
+</tr>
+<tr align="center">
+<td valign="bottom"><img src="https://cdn.simpleicons.org/langchain/1B7F5C" alt="LangChain logo" width="48"/><br/>LangChain</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n logo" width="48"/><br/>n8n</td>
+<td valign="bottom"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMjAgMTIwJz48cmVjdCB3aWR0aD0nMTIwJyBoZWlnaHQ9JzEyMCcgcng9JzI2JyBmaWxsPScjMTExODI3Jy8+PHRleHQgeD0nNTAlJyB5PSc1OCUnIGZvbnQtZmFtaWx5PSdTZWdvZSBVSSwgSW50ZXIsIHNhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nNTAnIGZpbGw9JyM2MEE1RkEnIHRleHQtYW5jaG9yPSdtaWRkbGUnPlo8L3RleHQ+PC9zdmc+" alt="Z.ai logo" width="48"/><br/>Z.ai</td>
+</tr>
+</table>
+</div>
 
 #### 🎨 Frontend & UI
-<p align="center">
-  <a href="#"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="50" height="50" alt="TypeScript" title="TypeScript"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50" height="50" alt="JavaScript" title="JavaScript"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/react/61DAFB" width="50" height="50" alt="React" title="React"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="50" height="50" alt="Next.js" title="Next.js"></a>
-</p>
+<div align="center">
+<table align="center">
+<tr align="center">
+<td valign="bottom"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript logo" width="48"/><br/>TypeScript</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript logo" width="48"/><br/>JavaScript</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="React logo" width="48"/><br/>React</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js logo" width="48"/><br/>Next.js</td>
+</tr>
+</table>
+</div>
 
 #### ⚙️ Backend & Runtime
-<p align="center">
-  <a href="#"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50" height="50" alt="Node.js" title="Node.js"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/bun/000000" width="50" height="50" alt="Bun" title="Bun"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/nestjs/E0234E" width="50" height="50" alt="NestJS" title="NestJS"></a>
-</p>
+<div align="center">
+<table align="center">
+<tr align="center">
+<td valign="bottom"><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js logo" width="48"/><br/>Node.js</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/bun/000000" alt="Bun logo" width="48"/><br/>Bun</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS logo" width="48"/><br/>NestJS</td>
+</tr>
+</table>
+</div>
 
 #### 🔗 APIs & Integration
-<p align="center">
-  <a href="#"><img src="https://cdn.simpleicons.org/graphql/E10098" width="50" height="50" alt="GraphQL" title="GraphQL"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/web3dotjs/F16822" width="50" height="50" alt="Web3.js" title="Web3.js"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/solidity/363636" width="50" height="50" alt="Solidity" title="Solidity"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/ethereum/627EEA" width="50" height="50" alt="Ethereum" title="Ethereum"></a>
-</p>
+<div align="center">
+<table align="center">
+<tr align="center">
+<td valign="bottom"><img src="https://cdn.simpleicons.org/graphql/E10098" alt="GraphQL logo" width="48"/><br/>GraphQL</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/web3dotjs/F16822" alt="Web3.js logo" width="48"/><br/>Web3.js</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/solidity/363636" alt="Solidity logo" width="48"/><br/>Solidity</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/ethereum/627EEA" alt="Ethereum logo" width="48"/><br/>Ethereum</td>
+</tr>
+</table>
+</div>
 
 #### 🗄️ Data & Storage
-<p align="center">
-  <a href="#"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="50" height="50" alt="PostgreSQL" title="PostgreSQL"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="50" height="50" alt="MySQL" title="MySQL"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="50" height="50" alt="MongoDB" title="MongoDB"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/redis/DC382D" width="50" height="50" alt="Redis" title="Redis"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/clickhouse/FFCC01" width="50" height="50" alt="ClickHouse" title="ClickHouse"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/neo4j/008CC1" width="50" height="50" alt="Neo4j" title="Neo4j"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" width="50" height="50" alt="Qdrant" title="Qdrant"></a>
-</p>
+<div align="center">
+<table align="center">
+<tr align="center">
+<td valign="bottom"><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL logo" width="48"/><br/>PostgreSQL</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL logo" width="48"/><br/>MySQL</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB logo" width="48"/><br/>MongoDB</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis logo" width="48"/><br/>Redis</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/clickhouse/FFCC01" alt="ClickHouse logo" width="48"/><br/>ClickHouse</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/neo4j/008CC1" alt="Neo4j logo" width="48"/><br/>Neo4j</td>
+<td valign="bottom"><img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" alt="Qdrant logo" width="48"/><br/>Qdrant</td>
+</tr>
+</table>
+</div>
 
 #### 📊 Infrastructure & Monitoring
-<p align="center">
-  <a href="#"><img src="https://cdn.simpleicons.org/minio/C72E49" width="50" height="50" alt="MinIO" title="MinIO"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/elasticsearch/005571" width="50" height="50" alt="Elasticsearch" title="Elasticsearch"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/grafana/F46800" width="50" height="50" alt="Grafana" title="Grafana"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/prometheus/E6522C" width="50" height="50" alt="Prometheus" title="Prometheus"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" width="50" height="50" alt="Loki" title="Loki"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="50" height="50" alt="RabbitMQ" title="RabbitMQ"></a>
-</p>
+<div align="center">
+<table align="center">
+<tr align="center">
+<td valign="bottom"><img src="https://cdn.simpleicons.org/minio/C72E49" alt="MinIO logo" width="48"/><br/>MinIO</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/elasticsearch/005571" alt="Elasticsearch logo" width="48"/><br/>Elasticsearch</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana logo" width="48"/><br/>Grafana</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus logo" width="48"/><br/>Prometheus</td>
+<td valign="bottom"><img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" alt="Loki logo" width="48"/><br/>Loki</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" alt="RabbitMQ logo" width="48"/><br/>RabbitMQ</td>
+</tr>
+</table>
+</div>
 
 #### ☁️ Cloud & DevOps
-<p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" width="50" height="50" alt="AWS" title="Amazon AWS"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="50" height="50" alt="Google Cloud" title="Google Cloud"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/digitalocean/0080FF" width="50" height="50" alt="DigitalOcean" title="DigitalOcean"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/hetzner/D50C2D" width="50" height="50" alt="Hetzner" title="Hetzner"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/docker/2496ED" width="50" height="50" alt="Docker" title="Docker"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="50" height="50" alt="GitHub Actions" title="GitHub Actions"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/portainer/13BEF9" width="50" height="50" alt="Portainer" title="Portainer"></a>
-</p>
+<div align="center">
+<table align="center">
+<tr align="center">
+<td valign="bottom"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" alt="AWS logo" width="48"/><br/>AWS</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud logo" width="48"/><br/>Google Cloud</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/digitalocean/0080FF" alt="DigitalOcean logo" width="48"/><br/>DigitalOcean</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/hetzner/D50C2D" alt="Hetzner logo" width="48"/><br/>Hetzner</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker logo" width="48"/><br/>Docker</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions logo" width="48"/><br/>GitHub Actions</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/portainer/13BEF9" alt="Portainer logo" width="48"/><br/>Portainer</td>
+</tr>
+</table>
+</div>
 
 #### 🛠️ Tools & IDEs
-<p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/visual-studio-code.svg" width="50" height="50" alt="VS Code" title="VS Code"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/webstorm/00C4FF" width="50" height="50" alt="WebStorm" title="WebStorm"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/datagrip/21D789" width="50" height="50" alt="DataGrip" title="DataGrip"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/git/F05032" width="50" height="50" alt="Git" title="Git"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/ubuntu/E95420" width="50" height="50" alt="Ubuntu" title="Ubuntu"></a>
-</p>
+<div align="center">
+<table align="center">
+<tr align="center">
+<td valign="bottom"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/visual-studio-code.svg" alt="VS Code logo" width="48"/><br/>VS Code</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/webstorm/00C4FF" alt="WebStorm logo" width="48"/><br/>WebStorm</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/datagrip/21D789" alt="DataGrip logo" width="48"/><br/>DataGrip</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git logo" width="48"/><br/>Git</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu logo" width="48"/><br/>Ubuntu</td>
+</tr>
+</table>
+</div>
 
 #### 🤝 Collaboration & Quality
-<p align="center">
-  <a href="#"><img src="https://cdn.simpleicons.org/jira/0052CC" width="50" height="50" alt="Jira" title="Jira"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/trello/0052CC" width="50" height="50" alt="Trello" title="Trello"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/redmine/B32024" width="50" height="50" alt="Redmine" title="Redmine"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/jest/C21325" width="50" height="50" alt="Jest" title="Jest"></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="50" height="50" alt="StackOverflow" title="StackOverflow"></a>
-</p>
+<div align="center">
+<table align="center">
+<tr align="center">
+<td valign="bottom"><img src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira logo" width="48"/><br/>Jira</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/trello/0052CC" alt="Trello logo" width="48"/><br/>Trello</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/redmine/B32024" alt="Redmine logo" width="48"/><br/>Redmine</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/jest/C21325" alt="Jest logo" width="48"/><br/>Jest</td>
+<td valign="bottom"><img src="https://cdn.simpleicons.org/stackoverflow/F58025" alt="StackOverflow logo" width="48"/><br/>StackOverflow</td>
+</tr>
+</table>
+</div>
 
 ---
 
