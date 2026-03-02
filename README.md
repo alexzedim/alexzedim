@@ -22,18 +22,18 @@
 <div align="center">
 <table align="center">
 <tr align="center">
-<td valign="bottom"><img src=" ./icons/google-gemini .svg" alt="Google Gemini logo" width="48"/><br/>Google Gemini</td>
+    <td valign="bottom"><img src=" ./icons/kilo-code .png" alt="Kilo Code logo" width="48"/><br/>Kilo Code</td>
+    <td valign="bottom"><img src=" ./icons/zai .svg" alt="Z .ai logo" width="48"/><br/>Z .ai</td>
+    <td valign="bottom"><img src=" ./icons/openrouter .svg" alt="OpenRouter logo" width="48"/><br/>OpenRouter</td>
+    <td valign="bottom"><img src=" ./icons/ollama .svg" alt="Ollama logo" width="48"/><br/>Ollama</td>
+    <td valign="bottom"><img src=" ./icons/google-gemini .svg" alt="Google Gemini logo" width="48"/><br/>Google Gemini</td>
     <td valign="bottom"><img src=" ./icons/claude .svg" alt="Claude logo" width="48"/><br/>Claude</td>
     <td valign="bottom"><img src=" ./icons/openai .svg" alt="OpenAI logo" width="48"/><br/>OpenAI</td>
-    <td valign="bottom"><img src=" ./icons/warp .svg" alt="Warp logo" width="48"/><br/>Warp</td>
-    <td valign="bottom"><img src=" ./icons/kilo-code .png" alt="Kilo Code logo" width="48"/><br/>Kilo Code</td>
-    <td valign="bottom"><img src=" ./icons/ollama .svg" alt="Ollama logo" width="48"/><br/>Ollama</td>
-    <td valign="bottom"><img src=" ./icons/openrouter .svg" alt="OpenRouter logo" width="48"/><br/>OpenRouter</td>
 </tr>
 <tr align="center">
+    <td valign="bottom"><img src=" ./icons/warp .svg" alt="Warp logo" width="48"/><br/>Warp .dev</td>
     <td valign="bottom"><img src=" ./icons/langchain .svg" alt="LangChain logo" width="48"/><br/>LangChain</td>
     <td valign="bottom"><img src=" ./icons/n8n .svg" alt="n8n logo" width="48"/><br/>n8n</td>
-    <td valign="bottom"><img src=" ./icons/zai .svg" alt="Z .ai logo" width="48"/><br/>Z .ai</td>
 </tr>
 </table>
 </div>
