@@ -14,7 +14,11 @@
 
 </div>
 
+<div align="center">
+
 #### 🤖 AI & Automation
+
+</div>
 <div align="center">
 <table align="center">
 <tr align="center">
@@ -34,7 +38,11 @@
 </table>
 </div>
 
+<div align="center">
+
 #### 🎨 Frontend & UI
+
+</div>
 <div align="center">
 <table align="center">
 <tr align="center">
@@ -46,7 +54,11 @@
 </table>
 </div>
 
+<div align="center">
+
 #### ⚙️ Backend & Runtime
+
+</div>
 <div align="center">
 <table align="center">
 <tr align="center">
@@ -57,7 +69,11 @@
 </table>
 </div>
 
+<div align="center">
+
 #### 🔗 APIs & Integration
+
+</div>
 <div align="center">
 <table align="center">
 <tr align="center">
@@ -69,7 +85,11 @@
 </table>
 </div>
 
+<div align="center">
+
 #### 🗄️ Data & Storage
+
+</div>
 <div align="center">
 <table align="center">
 <tr align="center">
@@ -84,7 +104,11 @@
 </table>
 </div>
 
+<div align="center">
+
 #### 📊 Infrastructure & Monitoring
+
+</div>
 <div align="center">
 <table align="center">
 <tr align="center">
@@ -98,7 +122,11 @@
 </table>
 </div>
 
+<div align="center">
+
 #### ☁️ Cloud & DevOps
+
+</div>
 <div align="center">
 <table align="center">
 <tr align="center">
@@ -113,7 +141,11 @@
 </table>
 </div>
 
+<div align="center">
+
 #### 🛠️ Tools & IDEs
+
+</div>
 <div align="center">
 <table align="center">
 <tr align="center">
@@ -126,7 +158,11 @@
 </table>
 </div>
 
+<div align="center">
+
 #### 🤝 Collaboration & Quality
+
+</div>
 <div align="center">
 <table align="center">
 <tr align="center">
