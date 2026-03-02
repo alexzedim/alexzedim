@@ -2,7 +2,7 @@
 
 ### 🌐 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/alexzedim@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:alexzedim@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/alexzedim/) [![Telegram](https://img.shields.io/badge/alexzedim-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/sasha_dev_spb/) [![Discord](https://img.shields.io/badge/alexzedim-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.com/users/alexzedim) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=0D1117)](https://stackoverflow.com/users/7475615/alexzedim) [![ENS](https://img.shields.io/badge/ENS-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0D1117)](https://alexzedim.eth)
+[![Gmail](https://img.shields.io/badge/alexzedim@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:alexzedim@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/alexzedim/) [![Telegram](https://img.shields.io/badge/sasha_dev_spb-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/sasha_dev_spb/) [![Discord](https://img.shields.io/badge/alexzedim-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.com/users/alexzedim) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=0D1117)](https://stackoverflow.com/users/7475615/alexzedim) [![ENS](https://img.shields.io/badge/ENS-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0D1117)](https://alexzedim.eth)
 
 > *"AI doesn't write code for me, but I use AI to write an efficient, observable code."*
 
@@ -22,18 +22,18 @@
 <div align="center">
 <table align="center">
 <tr align="center">
-<td valign="bottom"><img src="./icons/google-gemini.svg" alt="Google Gemini logo" width="48"/><br/>Google Gemini</td>
+    <td valign="bottom"><img src="./icons/kilo-code.png" alt="Kilo Code logo" width="48"/><br/>Kilo Code</td>
+    <td valign="bottom"><img src="./icons/zai.svg" alt="Z.ai logo" width="48"/><br/>Z.ai</td>
+    <td valign="bottom"><img src="./icons/openrouter.svg" alt="OpenRouter logo" width="48"/><br/>OpenRouter</td>
+    <td valign="bottom"><img src="./icons/ollama.svg" alt="Ollama logo" width="48"/><br/>Ollama</td>
+    <td valign="bottom"><img src="./icons/google-gemini.svg" alt="Google Gemini logo" width="48"/><br/>Google Gemini</td>
     <td valign="bottom"><img src="./icons/claude.svg" alt="Claude logo" width="48"/><br/>Claude</td>
     <td valign="bottom"><img src="./icons/openai.svg" alt="OpenAI logo" width="48"/><br/>OpenAI</td>
-    <td valign="bottom"><img src="./icons/warp.svg" alt="Warp logo" width="48"/><br/>Warp</td>
-    <td valign="bottom"><img src="./icons/kilo-code.png" alt="Kilo Code logo" width="48"/><br/>Kilo Code</td>
-    <td valign="bottom"><img src="./icons/ollama.svg" alt="Ollama logo" width="48"/><br/>Ollama</td>
-    <td valign="bottom"><img src="./icons/openrouter.svg" alt="OpenRouter logo" width="48"/><br/>OpenRouter</td>
 </tr>
 <tr align="center">
+    <td valign="bottom"><img src="./icons/warp.svg" alt="Warp logo" width="48"/><br/>Warp.dev</td>
     <td valign="bottom"><img src="./icons/langchain.svg" alt="LangChain logo" width="48"/><br/>LangChain</td>
     <td valign="bottom"><img src="./icons/n8n.svg" alt="n8n logo" width="48"/><br/>n8n</td>
-    <td valign="bottom"><img src="./icons/zai.svg" alt="Z.ai logo" width="48"/><br/>Z.ai</td>
 </tr>
 </table>
 </div>
