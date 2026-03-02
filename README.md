@@ -20,16 +20,16 @@
 <tr align="center">
 <td valign="bottom"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini logo" width="48"/><br/>Google Gemini</td>
 <td valign="bottom"><img src="https://cdn.simpleicons.org/anthropic/CA8D6E" alt="Claude logo" width="48"/><br/>Claude</td>
-<td valign="bottom"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/openai.svg" alt="OpenAI logo" width="48"/><br/>OpenAI</td>
+<td valign="bottom"><img src="https://us1.discourse-cdn.com/openai1/original/4X/3/2/1/321a1ba297482d3d4060d114860de1aa5610f8a9.png" alt="OpenAI logo" width="48"/><br/>OpenAI</td>
 <td valign="bottom"><img src="https://cdn.simpleicons.org/warp/01A4FF" alt="Warp logo" width="48"/><br/>Warp</td>
-<td valign="bottom"><img src="https://raw.githubusercontent.com/Kilo-Org/kilocode/main/logo.png" alt="Kilo Code logo" width="48"/><br/>Kilo Code</td>
+<td valign="bottom"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMLlNkfiVjeIdE8Sw7_GmVbxfOaqo-GnRX3w&s" alt="Kilo Code logo" width="48"/><br/>Kilo Code</td>
 <td valign="bottom"><img src="https://cdn.simpleicons.org/ollama/000000" alt="Ollama logo" width="48"/><br/>Ollama</td>
 <td valign="bottom"><img src="https://cdn.simpleicons.org/openrouter/8B5CF6" alt="OpenRouter logo" width="48"/><br/>OpenRouter</td>
 </tr>
 <tr align="center">
 <td valign="bottom"><img src="https://cdn.simpleicons.org/langchain/1B7F5C" alt="LangChain logo" width="48"/><br/>LangChain</td>
 <td valign="bottom"><img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n logo" width="48"/><br/>n8n</td>
-<td valign="bottom"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMjAgMTIwJz48cmVjdCB3aWR0aD0nMTIwJyBoZWlnaHQ9JzEyMCcgcng9JzI2JyBmaWxsPScjMTExODI3Jy8+PHRleHQgeD0nNTAlJyB5PSc1OCUnIGZvbnQtZmFtaWx5PSdTZWdvZSBVSSwgSW50ZXIsIHNhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSc3MDAnIGZvbnQtc2l6ZT0nNTAnIGZpbGw9JyM2MEE1RkEnIHRleHQtYW5jaG9yPSdtaWRkbGUnPlo8L3RleHQ+PC9zdmc+" alt="Z.ai logo" width="48"/><br/>Z.ai</td>
+<td valign="bottom"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Z.ai_%28company_logo%29.svg" alt="Z.ai logo" width="48"/><br/>Z.ai</td>
 </tr>
 </table>
 </div>
