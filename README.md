@@ -1,10 +1,8 @@
 <div align="center">
 
-### 🌐 Let's Connect
-
-
-
 > *"AI doesn't write code for me, but I use AI to write an efficient, observable code ."*
+
+
 
 </div>
 
