@@ -27,7 +27,7 @@
     <td valign="bottom"><img src="./icons/openrouter.svg" alt="OpenRouter logo" width="48"/><br/>OpenRouter</td>
 </tr>
 <tr align="center">
-<td valign="bottom"><img src="./icons/langchain.svg" alt="LangChain logo" width="48"/><br/>LangChain</td>
+    <td valign="bottom"><img src="./icons/langchain.svg" alt="LangChain logo" width="48"/><br/>LangChain</td>
     <td valign="bottom"><img src="./icons/n8n.svg" alt="n8n logo" width="48"/><br/>n8n</td>
     <td valign="bottom"><img src="./icons/zai.svg" alt="Z.ai logo" width="48"/><br/>Z.ai</td>
 </tr>
@@ -50,7 +50,7 @@
 <div align="center">
 <table align="center">
 <tr align="center">
-<td valign="bottom"><img src="./icons/nodejs.svg" alt="Node.js logo" width="48"/><br/>Node.js</td>
+    <td valign="bottom"><img src="./icons/nodejs.svg" alt="Node.js logo" width="48"/><br/>Node.js</td>
     <td valign="bottom"><img src="./icons/bun.svg" alt="Bun logo" width="48"/><br/>Bun</td>
     <td valign="bottom"><img src="./icons/nestjs.svg" alt="NestJS logo" width="48"/><br/>NestJS</td>
 </tr>
@@ -61,7 +61,7 @@
 <div align="center">
 <table align="center">
 <tr align="center">
-<td valign="bottom"><img src="./icons/graphql.svg" alt="GraphQL logo" width="48"/><br/>GraphQL</td>
+    <td valign="bottom"><img src="./icons/graphql.svg" alt="GraphQL logo" width="48"/><br/>GraphQL</td>
     <td valign="bottom"><img src="./icons/web3js.svg" alt="Web3.js logo" width="48"/><br/>Web3.js</td>
     <td valign="bottom"><img src="./icons/solidity.svg" alt="Solidity logo" width="48"/><br/>Solidity</td>
     <td valign="bottom"><img src="./icons/ethereum.svg" alt="Ethereum logo" width="48"/><br/>Ethereum</td>
@@ -73,7 +73,7 @@
 <div align="center">
 <table align="center">
 <tr align="center">
-<td valign="bottom"><img src="./icons/postgresql.svg" alt="PostgreSQL logo" width="48"/><br/>PostgreSQL</td>
+    <td valign="bottom"><img src="./icons/postgresql.svg" alt="PostgreSQL logo" width="48"/><br/>PostgreSQL</td>
     <td valign="bottom"><img src="./icons/mysql.svg" alt="MySQL logo" width="48"/><br/>MySQL</td>
     <td valign="bottom"><img src="./icons/mongodb.svg" alt="MongoDB logo" width="48"/><br/>MongoDB</td>
     <td valign="bottom"><img src="./icons/redis.svg" alt="Redis logo" width="48"/><br/>Redis</td>
@@ -102,7 +102,7 @@
 <div align="center">
 <table align="center">
 <tr align="center">
-<td valign="bottom"><img src="./icons/aws.svg" alt="AWS logo" width="48"/><br/>AWS</td>
+    <td valign="bottom"><img src="./icons/aws.svg" alt="AWS logo" width="48"/><br/>AWS</td>
     <td valign="bottom"><img src="./icons/google-cloud.svg" alt="Google Cloud logo" width="48"/><br/>Google Cloud</td>
     <td valign="bottom"><img src="./icons/digitalocean.svg" alt="DigitalOcean logo" width="48"/><br/>DigitalOcean</td>
     <td valign="bottom"><img src="./icons/hetzner.svg" alt="Hetzner logo" width="48"/><br/>Hetzner</td>
@@ -117,7 +117,7 @@
 <div align="center">
 <table align="center">
 <tr align="center">
-<td valign="bottom"><img src="./icons/vscode.svg" alt="VS Code logo" width="48"/><br/>VS Code</td>
+    <td valign="bottom"><img src="./icons/vscode.svg" alt="VS Code logo" width="48"/><br/>VS Code</td>
     <td valign="bottom"><img src="./icons/webstorm.svg" alt="WebStorm logo" width="48"/><br/>WebStorm</td>
     <td valign="bottom"><img src="./icons/datagrip.svg" alt="DataGrip logo" width="48"/><br/>DataGrip</td>
     <td valign="bottom"><img src="./icons/git.svg" alt="Git logo" width="48"/><br/>Git</td>
@@ -130,7 +130,7 @@
 <div align="center">
 <table align="center">
 <tr align="center">
-<td valign="bottom"><img src="./icons/jira.svg" alt="Jira logo" width="48"/><br/>Jira</td>
+    <td valign="bottom"><img src="./icons/jira.svg" alt="Jira logo" width="48"/><br/>Jira</td>
     <td valign="bottom"><img src="./icons/trello.svg" alt="Trello logo" width="48"/><br/>Trello</td>
     <td valign="bottom"><img src="./icons/redmine.svg" alt="Redmine logo" width="48"/><br/>Redmine</td>
     <td valign="bottom"><img src="./icons/jest.svg" alt="Jest logo" width="48"/><br/>Jest</td>
