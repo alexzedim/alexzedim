@@ -4,7 +4,7 @@
 
 [![Gmail](https://img.shields.io/badge/alexzedim@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:alexzedim@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/alexzedim/) [![Telegram](https://img.shields.io/badge/sasha_dev_spb-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/sasha_dev_spb/) [![Discord](https://img.shields.io/badge/alexzedim-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.com/users/alexzedim) [![Stack Overflow](https://img.shields.io/badge/SO-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=0D1117)](https://stackoverflow.com/users/7475615/alexzedim) [![ENS](https://img.shields.io/badge/ENS-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0D1117)](https://alexzedim.eth)
 
-</div>
+</div>  
 
 <div align="center">
 
