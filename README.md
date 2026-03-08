@@ -14,7 +14,7 @@
 
 <div align="center">
 
-#### 🤖 AI & Automation
+#### 🤖 Artificial Intellegence
 
 </div>
 <div align="center">
