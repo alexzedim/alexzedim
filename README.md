@@ -23,6 +23,7 @@
     <td valign="bottom"><img src="./icons/kilo-code.png" alt="Kilo Code logo" width="48"/><br/>Kilo Code</td>
     <td valign="bottom"><img src="./icons/zai.svg" alt="Z.ai logo" width="48"/><br/>Z.ai</td>
     <td valign="bottom"><img src="./icons/openrouter.svg" alt="OpenRouter logo" width="48"/><br/>OpenRouter</td>
+    <td valign="bottom"><img src="./icons/cerebras.svg" alt="Cerebras logo" width="48"/><br/>Cerebras</td>
     <td valign="bottom"><img src="./icons/ollama.svg" alt="Ollama logo" width="48"/><br/>Ollama</td>
     <td valign="bottom"><img src="./icons/google-gemini.svg" alt="Google Gemini logo" width="48"/><br/>Google Gemini</td>
     <td valign="bottom"><img src="./icons/claude.svg" alt="Claude logo" width="48"/><br/>Claude</td>

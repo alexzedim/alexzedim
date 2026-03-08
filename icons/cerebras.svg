@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <g fill="none" stroke-linecap="round">
+    <!-- Outer arc -->
+    <path d="M 44 24 A 20 20 0 1 1 24 4" stroke="#F47920" stroke-width="4"/>
+    <!-- Second arc -->
+    <path d="M 38 24 A 14 14 0 1 1 24 10" stroke="#F47920" stroke-width="3"/>
+    <!-- Third arc -->
+    <path d="M 32 24 A 8 8 0 1 1 24 16" stroke="#F47920" stroke-width="3"/>
+    <!-- Inner arc -->
+    <path d="M 28 24 A 4 4 0 1 1 24 20" stroke="#F47920" stroke-width="2"/>
+    <!-- Central C -->
+    <path d="M 26 24 A 2 2 0 1 1 24 22" stroke="#1a1a1a" stroke-width="2"/>
+  </g>
+</svg>
