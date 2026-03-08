@@ -166,12 +166,12 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/alexzedim/cmnw">
-        <img src="https://github.com/user-attachments/assets/26af96b1-f3d5-444b-bf7c-144e544ccaaa" alt="C M N W" width="100%">
+        <img src="./icons/cmnw.png" alt="C M N W" width="100%">
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/alexzedim/cmnw-oraculum">
-        <img src="https://github.com/user-attachments/assets/859dd493-eff3-41fa-80fa-9bdf05ed859b" alt="O R A" width="100%">
+        <img src="./icons/ora.png" alt="O R A" width="100%">
       </a>
     </td>
   </tr>
@@ -179,12 +179,12 @@
     <td align="center">
       <a href="https://github.com/alexzedim/cmnw"><strong>C M N W</strong></a>
       <br>
-      <i>Data Management Network</i>
+      <i>Intellegence always wins</i>
     </td>
     <td align="center">
-      <a href="https://github.com/alexzedim/cmnw-oraculum"><strong>O R A</strong></a>
+      <a href="https://github.com/alexzedim/cmnw-oraculum"><strong>O R A C U L U M</strong></a>
       <br>
-      <i>Oraculum - AI-Powered Analytics</i>
+      <i>Open your eyes</i>
     </td>
   </tr>
 </table>
