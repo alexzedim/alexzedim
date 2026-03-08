@@ -38,7 +38,7 @@
 
 <div align="center">
 
-#### 🎨 Frontend & UI
+#### ⚙️ Runtime Stack
 
 </div>
 <div align="center">
@@ -46,39 +46,11 @@
 <tr align="center">
 <td valign="bottom"><img src="./icons/typescript.svg" alt="TypeScript logo" width="48"/><br/>TypeScript</td>
     <td valign="bottom"><img src="./icons/javascript.svg" alt="JavaScript logo" width="48"/><br/>JavaScript</td>
-    <td valign="bottom"><img src="./icons/react.svg" alt="React logo" width="48"/><br/>React</td>
-    <td valign="bottom"><img src="./icons/nextjs.svg" alt="Next.js logo" width="48"/><br/>Next.js</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-
-#### ⚙️ Backend & Runtime
-
-</div>
-<div align="center">
-<table align="center">
-<tr align="center">
     <td valign="bottom"><img src="./icons/nodejs.svg" alt="Node.js logo" width="48"/><br/>Node.js</td>
     <td valign="bottom"><img src="./icons/bun.svg" alt="Bun logo" width="48"/><br/>Bun</td>
     <td valign="bottom"><img src="./icons/nestjs.svg" alt="NestJS logo" width="48"/><br/>NestJS</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-
-#### 🔗 APIs & Integration
-
-</div>
-<div align="center">
-<table align="center">
-<tr align="center">
-    <td valign="bottom"><img src="./icons/graphql.svg" alt="GraphQL logo" width="48"/><br/>GraphQL</td>
-    <td valign="bottom"><img src="./icons/web3js.svg" alt="Web3.js logo" width="48"/><br/>Web3.js</td>
-    <td valign="bottom"><img src="./icons/solidity.svg" alt="Solidity logo" width="48"/><br/>Solidity</td>
-    <td valign="bottom"><img src="./icons/ethereum.svg" alt="Ethereum logo" width="48"/><br/>Ethereum</td>
+    <td valign="bottom"><img src="./icons/react.svg" alt="React logo" width="48"/><br/>React</td>
+    <td valign="bottom"><img src="./icons/nextjs.svg" alt="Next.js logo" width="48"/><br/>Next.js</td>
 </tr>
 </table>
 </div>
