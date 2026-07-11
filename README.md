@@ -18,7 +18,6 @@
 <tr align="center">
     <td valign="bottom"><img src="./icons/kilo-code.png" alt="Kilo Code logo" width="48"/><br/>Kilo Code</td>
     <td valign="bottom"><img src="./icons/zai.svg" alt="Z.ai logo" width="48"/><br/>Z.ai</td>
-    <td valign="bottom"><img src="./icons/glm.svg" alt="GLM logo" width="48"/><br/>GLM</td>
     <td valign="bottom"><img src="./icons/MiniMax.svg" alt="MiniMax logo" width="48"/><br/>MiniMax</td>
     <td valign="bottom"><img src="./icons/openrouter.svg" alt="OpenRouter logo" width="48"/><br/>OpenRouter</td>
     <td valign="bottom"><img src="./icons/cerebras.svg" alt="Cerebras logo" width="48"/><br/>Cerebras</td>
